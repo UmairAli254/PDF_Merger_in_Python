@@ -1,4 +1,4 @@
-# Get all in pdfs dynamically in a folder and merger all of them
+# Get all pdfs in a folder, dynamically and merger all of them
 
 import PyPDF2
 import os
